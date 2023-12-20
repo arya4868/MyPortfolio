@@ -35,7 +35,7 @@ function Projects() {
               title="Portfolio Website"
               description="My personal Portfolio Website build with React and Bootstrap. It is fully responsive website which supports both dark and light mode. click demo to view more."
               ghLink=""
-              demoLink=""
+              demoLink="https://arya4868.github.io/MyPortfolio/"
             />
           </Col>
           <Col md={6} lg={4} className="project-card">
@@ -43,7 +43,7 @@ function Projects() {
               imgPath={TourAndTravels}
               title="TourAndTravels"
               description="This a tour and travels website , that provides user to access large inventory of Hotels,Rooms,Rental cars, Flight tickets, Tour and packages, etc. Click demo to view more"
-              ghLink="https://github.com/arya4868/Tour-and-Travel-website"
+              //ghLink="https://github.com/arya4868/Tour-and-Travel-website"
               demoLink= "https://arya4868.github.io/Tour-and-Travel-website/"
             />
           </Col>
@@ -53,7 +53,7 @@ function Projects() {
               imgPath={RestaurentBillingApp}
               title="Restaurant Billing Website"
               description="This is a bill generating website that takes order from menus from each table and then generate bill according to the order given . It also update the bill amount in case of deleting and adding the order later. Click demo to view more. "
-              ghLink="https://github.com/arya4868/RestaurentBillingWebsite"
+              //ghLink="https://github.com/arya4868/RestaurentBillingWebsite"
               demoLink="https://arya4868.github.io/RestaurentBillingWebsite/"
             />
           </Col>

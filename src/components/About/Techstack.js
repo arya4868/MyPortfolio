@@ -3,13 +3,13 @@ import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
-  DiMongodb,
+  // DiNodejs,
+  // DiMongodb,
   DiGit,
 DiGithub,
-DiJava,
-DiHtml5,
-DiCss3,
+ DiJava,
+// DiHtml5,
+// DiCss3,
 DiAndroid,
 
 
@@ -18,20 +18,23 @@ DiAndroid,
 import {
   SiFirebase,
   SiTypescript,
-  SiNextdotjs,
-  SiTailwindcss,
+  // SiNextdotjs,
+  // SiTailwindcss,
   SiRedux,
   SiMui,
-  SiReacthookform,
+  // SiReacthookform,
   
 } from "react-icons/si";
-import Github from "./Github";
+//import Github from "./Github";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />

@@ -10,7 +10,7 @@ import {
   SiWebpack,
   SiNpm,
   SiBabel,
-  SiVercel,
+  //SiVercel,
 
   SiGithub,
 } from "react-icons/si";
