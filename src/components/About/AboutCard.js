@@ -21,7 +21,7 @@ function AboutCard() {
               <AiOutlineArrowRight /> Creating social media content
             </li>
             <li className="about-activity">
-              <AiOutlineArrowRight /> Playing guitor
+              <AiOutlineArrowRight /> Playing guitar
             </li>
             <li className="about-activity">
               <AiOutlineArrowRight /> Following Trend

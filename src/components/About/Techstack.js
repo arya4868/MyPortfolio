@@ -32,33 +32,43 @@ function Techstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+        <h5>JavaScript</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+        <h5>Java</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+        <h5>React</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiTypescript />
+        <h5>TypeScript</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiAndroid />
+        <h5>Android</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         < SiMui/>
+        <h5>Material UI</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit/>
+        <h5>Git</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGithub />
+        <h5>Github</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiFirebase />
+        <h5>Firebase</h5>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiRedux />
+        <h5>Redux</h5>
       </Col>
       
     </Row>
